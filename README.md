@@ -83,11 +83,11 @@ Here are some ideas to get you started:
 
 -->
 
-
+<!--GitHub Stats Type 1
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajsrn&show_icons=true&locale=en" alt="yuvrajsrn" /></p>
 
 
-
+-->
 
  
 
