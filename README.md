@@ -105,9 +105,6 @@ Here are some ideas to get you started:
 
 -->
 
- 
-
-
 <!--GitHub Stats Type 2
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yuvrajsrn&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -115,6 +112,14 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsrn&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  -->
-
+ 
+<!--Github Stats Type 3
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
+<div align="center">
+  <a href="https://github.com/yuvrajsrn/"> <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsrn&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="GitHub Stats" />
+    <div style="height: 40px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsrn&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Top Languages" />
+    </div> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsrn&theme=tokyonight" alt="GitHub Streak" /> </a>
+</div>
+-->
 
 <!-- Proudly made by Yuvraj Saran -->
