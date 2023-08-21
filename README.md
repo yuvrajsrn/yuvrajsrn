@@ -75,6 +75,22 @@ Here are some ideas to get you started:
 <!--arduino-->  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 </p>
+<!--Kali--><a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali-Linux" width="40" height="40"/> </a>
+<!--Burpsuite--><a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="40" height="40"/> </a>
+<!--Nmap--><a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/> </a>
+<!--Metasploit--><a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40"
+ height="40"/> </a>
+<!--Wireshark--><a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/tool-logo-wireshark.svg" alt="Wireshark" width="40" height="40"/> </a>
+<!--Nessus--><a href="https://www.tenable.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1410604377757216768/ocEKYniC_400x400.jpg" alt="Nessus" width="40" height="40"/> </a>
+<!--Maltego--><a href="https://www.maltego.com/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Nessus" width="40" height="40"/> </a>
+<!--Autospy--><a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://d7umqicpi7263.cloudfront.net/img/product/9d4ccf9c-09cb-4a76-84da-e50fca281e58/108df64d-c341-461d-a9b4-b5065b45a7d1.png" alt="Autospy" width="40" height="40"/> </a>
+<!--Aircrack-ng--><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" width="40" height="40"/> </a>
+<!--Any 
+<a href="#" target="_blank" rel="noreferrer"> <img src="#" alt="#" width="40" height="40"/> </a>
+
+-->
+
+
 
 <!--Tech Stack
 
@@ -93,7 +109,7 @@ Here are some ideas to get you started:
 
 
 <!--GitHub Stats Type 2
-# 📊 GitHub Stats:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yuvrajsrn&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsrn&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsrn&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
