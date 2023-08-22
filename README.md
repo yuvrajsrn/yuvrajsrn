@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">  
+<!--## <a href="#" target="blank"><img align="center" src="#" alt="#" height="30" width="40" /></a> -->
 <!--Twitter-->   <a href="https://twitter.com/yuvrajsrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajsrn" height="30" width="40" /></a>
 <!--Linkedin-->  <a href="https://www.linkedin.com/in/yuvrajsrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvrajsrn" height="30" width="40" /></a>
+<!--Medium  <a href="https://medium.com/@yuvrajsrn" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fill:110:110/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="@yuvrajsrn" height="30" width="40" /></a>
+-->
 
 <!-- Social Type 2--
 ## 🌐 Socials:
